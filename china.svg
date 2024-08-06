@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="50" height="50">
+	<title>cn-svg</title>
+	<style>
+		.s0 { fill: #ffff00 } 
+	</style>
+	<g id="Layer">
+		<path id="a" class="s0" d="m150 60l52.9 162.8-138.5-100.6h171.2l-138.5 100.6z"/>
+	</g>
+	<path id="a" class="s0" d="m311.7 32.4l-5 56.8-29.3-48.9 52.5 22.3-55.6 12.8z"/>
+	<path id="a" class="s0" d="m381.5 99.1l-26.6 50.5-8.1-56.5 39.7 40.9-56.2-9.8z"/>
+	<path id="a" class="s0" d="m388.2 199.7l-45 35.2 15.7-54.9 19.6 53.6-47.3-31.8z"/>
+	<path id="a" class="s0" d="m310.6 241.9l-2.7 57-31.3-47.6 53.4 20.1-55.1 15.1z"/>
+</svg>

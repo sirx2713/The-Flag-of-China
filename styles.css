@@ -1,0 +1,14 @@
+h1{
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+#main-container{
+    position: relative;
+    height: 600px;
+    width: 1200px;
+    background-color: #EE1C25;
+}
+#main-container > img{
+    position: absolute;
+    top: -125px;
+}
